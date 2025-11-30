@@ -99,7 +99,7 @@ Used class weighting to handle 6/94 class imbalance.
 
 ##  Contact
 
-[Your Name]  
+Callan Wong
 [LinkedIn](https://www.linkedin.com/in/callanwong/) | [Email](mailto:wongcallan@gmail.com)
 
 ---
